@@ -1,4 +1,4 @@
-![logo](https://github.com/Ashutosh-PMishra/Ashutosh-PMishra/blob/main/Github%20Banner.png)
+ ![logo](https://github.com/Ashutosh-PMishra/Ashutosh-PMishra/blob/main/Github%20Banner.png)
 ### <div align="center">👨‍💻 I'm Mohammad Ismail, a Tech Enthusiast with Linux Admin and Pen Testing Skills, Ready to Dive into the Cybersecurity World  🚀</div>  
   
 <div align="right">
