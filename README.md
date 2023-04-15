@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning Shell Scripting **HackerRank , Udemy**
 
-- 👨‍💻 All of my projects are available at [#not yet](#not yet)
+- 👨‍💻 All of my projects are available at [here](https://github.com/mismaillone)
 
 - 📝 I regularly write articles on [here](https://cyberly.ml)
 
