@@ -1,10 +1,8 @@
- ![logo](https://github.com/Ashutosh-PMishra/Ashutosh-PMishra/blob/main/Github%20Banner.png)
+ ![logo](https://github.com/mismaillone/mismaillone.github.io/blob/main/cybersecurity-banner.png)
+
+
 ### <div align="center">👨‍💻 I'm Mohammad Ismail, a Tech Enthusiast with Linux Admin and Pen Testing Skills, Ready to Dive into the Cybersecurity World  🚀</div>  
   
-<div align="right">
-<img src="https://media2.giphy.com/media/JTTAjM197sku8MgrRa/giphy.gif?cid=ecf05e47uwycc76i4jsjs1hckamy4xyuekvcwjr0asszuc4n&rid=giphy.gif&ct=g" align="center" style="width: 50%" />
-</div>
-
 
 - 🔭 I’m currently working on Automation Tool : Building an All-in-One Scanning and Fuzzing Tool for Streamlined Detection and Reporting  
   
@@ -114,3 +112,4 @@ If things goes well, this section should automatically be replaced by a list of 
 <br />
 
 ----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
