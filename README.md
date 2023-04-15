@@ -1,4 +1,4 @@
- ![logo](https://github.com/mismaillone/mismaillone.github.io/blob/main/cybersecurity-banner.png)
+ ![logo](https://github.com/mismaillone/ctf-writeups/blob/main/cybersecurity-banner.png)
 
 <h1 align="center">Hi 👋, I'm Mohammad Ismail,</h1>
 <h3 align="center">A Tech Enthusiast with Linux Admin and Pen Testing Skills, Ready to Dive into the Cybersecurity World 🚀</h3>
