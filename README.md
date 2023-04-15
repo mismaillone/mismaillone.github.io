@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Pentesting , CTF , Forensics and Ethical Hacking**
 
-- 📫 How to reach me **warlockmachine34@gmail.com**
+- 📫 How to reach me **Linkedin**
 
 - ⚡ Fun fact **Kernal Panic**
 
