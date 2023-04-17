@@ -20,7 +20,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/ismaillone" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ismaillone" height="30" width="40" /></a>
 <a href="https://instagram.com/techie.bes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="techie.bes" height="30" width="40" /></a>
-<a href="https://hashnode.com/technologyhawk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="technologyhawk" height="30" width="40" /></a>
+<a href="https://hashnode.com/@technologyhawk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="technologyhawk" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/amirsheikamir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="amirsheikamir" height="30" width="40" /></a>
 </p>
 
